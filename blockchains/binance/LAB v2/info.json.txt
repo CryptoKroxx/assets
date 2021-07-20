@@ -1,0 +1,9 @@
+"name": "Little Angry Bunny v2",
+"website": "https://fighluna.wixsite.com/mysite",
+"description": "Little Angry Bunny v2 is stablecoin created by binance smart chain and also working by community.",
+"explorer": "https://bscscan.com/token/0x07f5ceded6b3dba557b3663edc8941fb37b63945",
+"type": "BEP20",
+"symbol": "LAB v2",
+"decimals": 9,
+"status": "active"
+"id": "0x07f5ceded6b3dba557b3663edc8941fb37b63945"
